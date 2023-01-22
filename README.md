@@ -154,9 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Dawit Abebe - [Github](https://github.com/DawitAbebe123)
-
-Tibebe Solomon - [Github](https://github.com/sapencio)
+Amanuael Kebede -  [Github](https://github.com/manuel-heav)
 
 Second part of Airbnb: Joann Vuong
 ## License
